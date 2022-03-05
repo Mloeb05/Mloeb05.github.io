@@ -2,6 +2,17 @@ body {
     background: peachpuff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.assignment{
+    display:flex;
+    padding: 10px;
+    background:burlywood;
+    margin: 10px;
+}
+
+.assignment img {
+    width: 200px;
+    padding: 10px;
+}
 h1 {
     color:sienna;
     text-align:center;
