@@ -7,13 +7,27 @@ body {
     padding: 10px;
     background:burlywood;
     margin: 10px;
+    border-radius: 50px;
 }
 
 .assignment img {
     width: 200px;
     padding: 10px;
+    border: 4px dashed #fff
+}
+
+.assignment img{
+    
 }
 h1 {
     color:sienna;
     text-align:center;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+}
+
+a:hover {
+    color:chocolate;
 }
